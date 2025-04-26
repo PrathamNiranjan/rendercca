@@ -1,1 +1,11 @@
-
+Company,Crop,Quantity (kg),Price (₹/kg),Deadline,Contact
+Reliance Agro,Rice,5000,50.75,2025-05-30,contact@relianceagro.com
+Tata Agri Solutions,Wheat,3500,42.00,2025-05-15,agrisolutions@tata.com
+ITC Agro,Cotton,2000,85.25,2025-06-10,agroenquiries@itc.in
+Adani Farm Fresh,Pulses,1500,95.00,2025-05-20,farmfresh@adani.com
+Mahindra Agri,Maize,4000,32.50,2025-06-15,agribusiness@mahindra.com
+Godrej Agrovet,Sugarcane,10000,4.25,2025-05-25,agrovet@godrej.com
+Nuziveedu Seeds,Rice,3000,52.00,2025-06-05,business@nuziveedu.com
+DCM Shriram,Wheat,2500,43.50,2025-05-28,agri@dcmshriram.com
+Cargill India,Maize,5500,33.75,2025-06-20,info_india@cargill.com
+UPL Limited,Cotton,1800,86.50,2025-06-25,india@upl-ltd.com
